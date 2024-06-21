@@ -495,7 +495,7 @@
       "KC_PGUP",
       "MACRO(4)",
       "MO(8)",
-      "KC_TRNS",
+      "KC_NO",
       "KC_TRNS",
       "KC_NO",
       "KC_ENT",
