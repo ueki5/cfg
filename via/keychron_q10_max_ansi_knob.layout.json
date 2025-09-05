@@ -1,24 +1,7 @@
 {
   "name": "Keychron Q10 Max ANSI Knob",
   "vendorProductId": 875825312,
-  "macros": [
-    "",
-    "{KC_LCTL,KC_LALT,KC_1}{KC_HOME}{KC_HOME}1",
-    "{KC_LCTL,KC_LALT,KC_2}{KC_HOME}{KC_HOME}2",
-    "{KC_LCTL,KC_LALT,KC_3}{KC_HOME}{KC_HOME}3",
-    "{KC_LCTL,KC_LALT,KC_4}{KC_HOME}{KC_HOME}4",
-    "{KC_LCTL,KC_LALT,KC_1}",
-    "{KC_LCTL,KC_LALT,KC_2}",
-    "{KC_LCTL,KC_LALT,KC_3}",
-    "{KC_LCTL,KC_LALT,KC_4}",
-    "{KC_HOME}{KC_HOME}1",
-    "{KC_HOME}{KC_HOME}2",
-    "{KC_HOME}{KC_HOME}3",
-    "{KC_HOME}{KC_HOME}4",
-    "",
-    "",
-    ""
-  ],
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
       "KC_MUTE",
