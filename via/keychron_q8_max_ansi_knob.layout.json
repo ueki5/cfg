@@ -312,7 +312,7 @@
       "KC_END"
     ],
     [
-      "KC_ESC",
+      "S(KC_ESC)",
       "S(KC_F1)",
       "S(KC_F2)",
       "S(KC_F3)",
