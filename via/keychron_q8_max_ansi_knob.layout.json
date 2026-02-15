@@ -235,7 +235,7 @@
       "KC_RGHT"
     ],
     [
-      "KC_TRNS",
+      "KC_ESC",
       "KC_F1",
       "KC_F2",
       "KC_F3",
@@ -312,7 +312,7 @@
       "KC_END"
     ],
     [
-      "KC_TRNS",
+      "KC_ESC",
       "S(KC_F1)",
       "S(KC_F2)",
       "S(KC_F3)",
